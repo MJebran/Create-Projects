@@ -11,26 +11,30 @@ This guide walks you through setting up a new Vite project step by step.
    ```bash
    npm create vite@latest
    ```
+   or if you have a empty github repo do  
+    ```bash
+   npm create vite@latest .
+   ```
 
-2. **Navigate to Your Project Directory:**
+3. **Navigate to Your Project Directory:**
 
    ```bash
    cd ./your_project_name
    ```
 
-3. **Install Dependencies:**
+4. **Install Dependencies:**
 
    ```bash
    npm install
    ```
 
-4. **Run the Development Server:**
+5. **Run the Development Server:**
 
    ```bash
    npm run dev
    ```
 
-5. **Project Structure:**
+6. **Project Structure:**
 
    ```
    ├── public
@@ -44,3 +48,5 @@ This guide walks you through setting up a new Vite project step by step.
    ├── vite.config.js
    └── README.md
    ```
+
+
